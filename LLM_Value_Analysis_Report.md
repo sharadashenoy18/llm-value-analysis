@@ -8,7 +8,6 @@
 
 ## 1. The Value Frontier — Where Your Money Actually Buys Intelligence
 
-![Value Frontier](value_frontier.png)
 
 Only **16 of 313 models (5%)** are genuinely "Pareto-optimal" — meaning no cheaper model matches their intelligence score. Everything else is, mathematically, a worse deal than something already on the market.
 
@@ -21,7 +20,6 @@ Only **16 of 313 models (5%)** are genuinely "Pareto-optimal" — meaning no che
 
 ## 2. Speed vs. Cost — You're Not Paying for Speed
 
-![Speed vs Cost](speed_vs_cost.png)
 
 Correlation between cost and output speed: **r = -0.20** — weakly *negative*.
 
